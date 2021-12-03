@@ -1,13 +1,10 @@
 <strong>Ian Mordaunt 12/02/2021<strong>
 
-<div>
+
 <h1>HTML, CSS, and Git: Code Refactor<h1>
-<div>
+
 <p>
-<div>
 Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.
-<div>
-<p>
 <p>
 Work completed includes:
 <p>
