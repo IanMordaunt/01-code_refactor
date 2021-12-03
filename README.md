@@ -4,7 +4,7 @@
 <h1>HTML, CSS, and Git: Code Refactor<h1>
 <div>
 <p>
-<h2>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h2>
+<h1>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h1>
 <p>
 
 <p>
