@@ -1,14 +1,14 @@
 <strong>Ian Mordaunt 12/02/2021<strong>
 
 <div>
-<h1>HTML, CSS, and Git: Code Refactor<h1>
+<h2>HTML, CSS, and Git: Code Refactor<h2>
 <div>
 <p>
-<h2>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h2>
+<h1>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h1>
 <p>
-<div>
+
 <p>
-<h3>Work completed includes:<h3>
+<h1>Work completed includes:<h1>
 <p>
 1.) Refactoring Code to make it more accessible to the end user.
 <p>
@@ -20,6 +20,6 @@
 
 5.) Making sure heading attributes are in sequential order.
 
-<div>
+
 
 ![my screenshot](https://github.com/IanMordaunt/01-code_refactor/blob/master/assets/images/%20Horiseon1%20-%20ianmordaunt.github.io.png)
