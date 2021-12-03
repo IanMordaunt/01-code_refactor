@@ -1,13 +1,15 @@
 <strong>Ian Mordaunt 12/02/2021<strong>
 
 <div>
-<h2>HTML, CSS, and Git: Code Refactor<h2>
+<h1>HTML, CSS, and Git: Code Refactor<h1>
 <div>
 <p>
-<h3>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h3>
+<h2>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h2>
 <p>
-<h4>Work completed includes:
 <div>
+<p>
+<h3>Work completed includes:<h3>
+<p>
 1.) Refactoring Code to make it more accessible to the end user.
 <p>
 2.) Incorporate semantic HTML elements, allowing people with disabilities to access and understand the website using assistive technologies. This included adding alt attributes. Using section and aside to break the page into sections of information. 
