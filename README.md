@@ -3,8 +3,9 @@
 <div>
 <h2>HTML, CSS, and Git: Code Refactor<h2>
 <div>
+<p>
 This assignment included the following tasks:
-
+<p>
 1.) Refactoring Code to make it more accessible to the end user.
 a. ensure that people with disabilities can access the website using assistive technologies.
 
