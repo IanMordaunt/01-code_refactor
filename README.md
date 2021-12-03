@@ -1,14 +1,14 @@
 <strong>Ian Mordaunt 12/02/2021<strong>
 
 <div>
-<h2>HTML, CSS, and Git: Code Refactor<h2>
+<h1>HTML, CSS, and Git: Code Refactor<h1>
 <div>
 <p>
-<h1>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h1>
+<h2>Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.<h2>
 <p>
 
 <p>
-<h1>Work completed includes:<h1>
+<h2>Work completed includes:<h2>
 <p>
 1.) Refactoring Code to make it more accessible to the end user.
 <p>
