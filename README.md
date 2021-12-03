@@ -18,7 +18,7 @@ Ian Mordaunt 12/02/2021
 
 5.) Making sure heading attributes are in sequential order.
 
-**Deployed Webpage:** <a href="https://ianmordaunt.github.io/01-code_refactor/"
+**Deployed Webpage:** https://ianmordaunt.github.io/01-code_refactor/
 
 ---
 
