@@ -18,5 +18,8 @@ Ian Mordaunt 12/02/2021
 
 5.) Making sure heading attributes are in sequential order.
 
+**Deployed Webpage:**
+
+---
 
 ![my screenshot](https://github.com/IanMordaunt/01-code_refactor/blob/master/assets/images/%20Horiseon1%20-%20ianmordaunt.github.io.png)
