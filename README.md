@@ -1,12 +1,12 @@
 Ian Mordaunt 12/02/2021
 
 
-HTML, CSS, and Git: Code Refactor
+## HTML, CSS, and Git: Code Refactor
 
 
-## Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.
+**Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.**
 
-Work completed includes:
+**Work completed includes:**
 
 1.) Refactoring Code to make it more accessible to the end user.
 
