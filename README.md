@@ -6,11 +6,16 @@
 <p>
 This assignment included the following tasks:
 <p>
+<div>
 1.) Refactoring Code to make it more accessible to the end user.
-a. ensure that people with disabilities can access the website using assistive technologies.
 
-2.) Check that all links are functioning correctly.
+2.) Incorporate semantic HTML elements, allowing people with disabilities to access and understand the website using assistive technologies.
 
-3.) Increase the efficiency of the CSS.
+3.) Check that all links are functioning correctly.
+
+4.) Increase the efficiency of the CSS.
+
+
+<div>
 
 ![my screenshot](https://github.com/IanMordaunt/01-code_refactor/blob/master/assets/images/%20Horiseon1%20-%20ianmordaunt.github.io.png)
