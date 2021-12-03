@@ -1,17 +1,17 @@
-<strong>Ian Mordaunt 12/02/2021<strong>
+Ian Mordaunt 12/02/2021
 
 
-<h1>HTML, CSS, and Git: Code Refactor<h1>
+HTML, CSS, and Git: Code Refactor
 
-<p>
-Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.
-<p>
+
+## Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.
+
 Work completed includes:
-<p>
+
 1.) Refactoring Code to make it more accessible to the end user.
-<p>
+
 2.) Incorporate semantic HTML elements, allowing people with disabilities to access and understand the website using assistive technologies. This included adding alt attributes. Using section and aside to break the page into sections of information. 
-<p>
+
 3.) Check that all links are functioning correctly.
 
 4.) Increase the efficiency of the CSS when possible.
