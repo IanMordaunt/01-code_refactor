@@ -4,7 +4,7 @@ Ian Mordaunt 12/02/2021
 ## HTML, CSS, and Git: Code Refactor
 
 
-**Task: A marketing agency has hired a developer to refcator and existing site and make it more accessible.**
+**Task: A marketing agency has hired a developer to refactor and existing site and make it more accessible.**
 
 **Work completed includes:**
 
